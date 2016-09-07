@@ -96,7 +96,6 @@ span.glyphicon.glyphicon-shopping-cart {
     color: black;
 }
 
-
 .nav-inline a {
     color: #b9bed1;
     font-family: "Montserrat-Regular", sans-serif;
@@ -115,7 +114,6 @@ span.glyphicon.glyphicon-shopping-cart {
 
 #support {
     padding-right: 200px;
-
 }
 
 #search {
@@ -134,6 +132,7 @@ span.glyphicon.glyphicon-shopping-cart {
     margin-left: 112px;
 
 }
+
 
 /* CAROUSEL*/
 
@@ -465,13 +464,4 @@ xxx.see_all {
 }
 
 /* END OF CONDITION BOX*/
-
-
-
-
-
-
-
-
-
 
