@@ -136,14 +136,35 @@ span.glyphicon.glyphicon-shopping-cart {
 
 /* CAROUSEL*/
 
-.carousel-inner {
-    width: 2000px;
+x.carousel-inner {
+    width: 100%;
     height: 640px;
 }
 
 .carousel img{
  background-size: cover;
 }
+
+.carousel-caption {
+    font-family: "Montserrat-Regular", sans-serif;
+}
+
+.carousel-caption h1 {
+    text-align: left;
+    margin-bottom: auto;
+}
+
+.carousel-caption p {
+    text-align: left;
+    margin-bottom: auto;
+}
+
+
+
+
+/*END OF CAROUSEL*/
+
+
 
 
 /* SORT BY NAV, FILTER, PRICE and SHIPPING */
@@ -604,32 +625,31 @@ xxx.see_all {
     color: #b9bed1;
     font-size: 18px;
     margin-bottom: 50px;
-
 }
 
 .photo img {
     border-radius: 100px;
     width:40px;
-
 }
+
 
 .firs-last-name {
     font-family: "Montserrat-Regular", sans-serif;
-
 }
 
 .occupation {
     font-family: "CrimsonText-Italic";
     color: #b9bed1;
-
 }
 
 .related {
     font-family: CrimsonText Roman;
-
 }
-
 /* END OF TESTIMONIALS*/
+
+
+
+/* FOOTER*/
 
 .footer {
     background-color: #222328;
@@ -680,14 +700,15 @@ xxx.see_all {
     float: right;
 }
 
+.social-media i {
+    color: white;
+    font-size: 18px;
+}
+
 .navbar-brand {
     margin-left: 250px;
 
 }
-
-/* FOOTER */
-
-
 
 /* END OF FOOTER */
 
