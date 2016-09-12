@@ -130,7 +130,6 @@ span.glyphicon.glyphicon-shopping-cart {
     position: absolute;
     margin-top: -18px;
     margin-left: 112px;
-
 }
 
 
@@ -158,13 +157,7 @@ x.carousel-inner {
     text-align: left;
     margin-bottom: auto;
 }
-
-
-
-
 /*END OF CAROUSEL*/
-
-
 
 
 /* SORT BY NAV, FILTER, PRICE and SHIPPING */
@@ -645,6 +638,8 @@ xxx.see_all {
 .related {
     font-family: CrimsonText Roman;
 }
+
+
 /* END OF TESTIMONIALS*/
 
 
@@ -697,7 +692,7 @@ xxx.see_all {
 
 .social-media {
     width: 70%;
-    float: right;
+    float: left;
 }
 
 .social-media i {
